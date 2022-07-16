@@ -1,7 +1,7 @@
 ### 👋 Greetings and salutations!
 
 - 🔭 I’m currently working on all kinds of things!
-- 🌱 I’m currently learning more about Generative Adversarial Networks (GANs) and React (Next.js) mostly, but also some Java, Rust, and Go.
+- 🌱 I’m currently learning more about Generative Adversarial Networks (GANs).
 - 👯 I’m looking to collaborate on just about anything!
 - 💬 Ask me about anything you like!
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jsilke/)!
